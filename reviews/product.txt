@@ -1,0 +1,5 @@
+product_name=Nokia 6610
+brand_name=Nokia
+product_price=7030
+sales_rank=21580
+review_rating=3.5

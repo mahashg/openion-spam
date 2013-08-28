@@ -1,0 +1,26 @@
+<Feature>
+   <product>
+      <price>10.5</price>
+      <sales_rank>7.0</sales_rank>
+      <avg_rating>8.0</avg_rating>
+      <std_deviation>4.0</std_deviation>
+   </product>
+   <review>
+      <body>8</body>
+      <title>9</title>
+      <rating>5</rating>
+   </review>
+   <reviewer>
+      <no_good_review>5.5</no_good_review>
+      <avg_rating>4.8</avg_rating>
+      <std_deviation>3.9</std_deviation>
+   </reviewer>
+   <textual>
+      <positive_review>5</positive_review>
+      <negative_review>4</negative_review>
+      <cosine>3.0</cosine>
+      <brand_name>8</brand_name>
+      <numbers>8</numbers>
+      <captial_letter>8</captial_letter>
+   </textual>
+</Feature>
